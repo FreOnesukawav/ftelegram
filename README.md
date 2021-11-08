@@ -27,8 +27,7 @@ $ flutter test
 $ flutter pub get
 $ flutter run lib/main.dart
 ```
-## 
-Build an APK
+##  Build an APK
 > [!NOTE]
 > For start confirm flutter instalation on your machine.
 ``` Bash

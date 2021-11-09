@@ -44,3 +44,9 @@ This commands results in three APK files:
     [project]/build/app/outputs/apk/release/app-arm64-v8a-release.apk
     [project]/build/app/outputs/apk/release/app-x86_64-release.apk
 ```
+
+## Used libs and technologies
+
+TDLib - https://github.com/i-Naji/tdlib
+Flutter - https://github.com/flutter/flutter
+Dart - https://dart.dev/

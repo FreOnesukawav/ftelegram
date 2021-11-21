@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ftelegram/templates/basicText.dart';
+import 'package:ftelegram/templates/text/basicText.dart';
 
 class SampleScreen extends StatefulWidget {
   const SampleScreen({Key? key}) : super(key: key);
